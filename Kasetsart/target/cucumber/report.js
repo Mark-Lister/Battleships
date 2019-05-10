@@ -6,10 +6,6 @@ formatter.feature({
   "id": "shoot",
   "keyword": "Feature"
 });
-formatter.before({
-  "duration": 112468,
-  "status": "passed"
-});
 formatter.background({
   "line": 6,
   "name": "",
@@ -46,7 +42,7 @@ formatter.match({
   "location": "StepDefATM.create_grid_and_player(String,int)"
 });
 formatter.result({
-  "duration": 10501468,
+  "duration": 5270189,
   "status": "passed"
 });
 formatter.match({
@@ -75,7 +71,7 @@ formatter.match({
   "location": "StepDefATM.place_ship(int,String,int,int,String)"
 });
 formatter.result({
-  "duration": 400267,
+  "duration": 301484,
   "status": "passed"
 });
 formatter.match({
@@ -104,7 +100,7 @@ formatter.match({
   "location": "StepDefATM.place_ship(int,String,int,int,String)"
 });
 formatter.result({
-  "duration": 606388,
+  "duration": 274970,
   "status": "passed"
 });
 formatter.scenario({
@@ -139,7 +135,7 @@ formatter.match({
   "location": "StepDefATM.shoot(int,int)"
 });
 formatter.result({
-  "duration": 231779,
+  "duration": 251450,
   "status": "passed"
 });
 formatter.match({
@@ -152,11 +148,7 @@ formatter.match({
   "location": "StepDefATM.shoot_response(String)"
 });
 formatter.result({
-  "duration": 3704187,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 64145,
+  "duration": 3728561,
   "status": "passed"
 });
 formatter.background({
@@ -195,7 +187,7 @@ formatter.match({
   "location": "StepDefATM.create_grid_and_player(String,int)"
 });
 formatter.result({
-  "duration": 192008,
+  "duration": 422932,
   "status": "passed"
 });
 formatter.match({
@@ -224,7 +216,7 @@ formatter.match({
   "location": "StepDefATM.place_ship(int,String,int,int,String)"
 });
 formatter.result({
-  "duration": 581158,
+  "duration": 258292,
   "status": "passed"
 });
 formatter.match({
@@ -253,7 +245,7 @@ formatter.match({
   "location": "StepDefATM.place_ship(int,String,int,int,String)"
 });
 formatter.result({
-  "duration": 292931,
+  "duration": 260003,
   "status": "passed"
 });
 formatter.scenario({
@@ -288,7 +280,7 @@ formatter.match({
   "location": "StepDefATM.shoot(int,int)"
 });
 formatter.result({
-  "duration": 354511,
+  "duration": 8331210,
   "status": "passed"
 });
 formatter.match({
@@ -301,11 +293,7 @@ formatter.match({
   "location": "StepDefATM.shoot_response(String)"
 });
 formatter.result({
-  "duration": 1541202,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 64145,
+  "duration": 82106,
   "status": "passed"
 });
 formatter.background({
@@ -344,7 +332,7 @@ formatter.match({
   "location": "StepDefATM.create_grid_and_player(String,int)"
 });
 formatter.result({
-  "duration": 158225,
+  "duration": 210824,
   "status": "passed"
 });
 formatter.match({
@@ -373,7 +361,7 @@ formatter.match({
   "location": "StepDefATM.place_ship(int,String,int,int,String)"
 });
 formatter.result({
-  "duration": 387011,
+  "duration": 292503,
   "status": "passed"
 });
 formatter.match({
@@ -402,7 +390,7 @@ formatter.match({
   "location": "StepDefATM.place_ship(int,String,int,int,String)"
 });
 formatter.result({
-  "duration": 402406,
+  "duration": 357931,
   "status": "passed"
 });
 formatter.scenario({
@@ -442,7 +430,7 @@ formatter.match({
   "location": "StepDefATM.shoot(int,int)"
 });
 formatter.result({
-  "duration": 215956,
+  "duration": 230923,
   "status": "passed"
 });
 formatter.match({
@@ -459,7 +447,7 @@ formatter.match({
   "location": "StepDefATM.shoot(int,int)"
 });
 formatter.result({
-  "duration": 271549,
+  "duration": 282668,
   "status": "passed"
 });
 formatter.match({
@@ -472,11 +460,7 @@ formatter.match({
   "location": "StepDefATM.shoot_response(String)"
 });
 formatter.result({
-  "duration": 121021,
-  "status": "passed"
-});
-formatter.before({
-  "duration": 67138,
+  "duration": 104771,
   "status": "passed"
 });
 formatter.background({
@@ -515,7 +499,7 @@ formatter.match({
   "location": "StepDefATM.create_grid_and_player(String,int)"
 });
 formatter.result({
-  "duration": 235200,
+  "duration": 208259,
   "status": "passed"
 });
 formatter.match({
@@ -544,7 +528,7 @@ formatter.match({
   "location": "StepDefATM.place_ship(int,String,int,int,String)"
 });
 formatter.result({
-  "duration": 233917,
+  "duration": 270694,
   "status": "passed"
 });
 formatter.match({
@@ -573,7 +557,7 @@ formatter.match({
   "location": "StepDefATM.place_ship(int,String,int,int,String)"
 });
 formatter.result({
-  "duration": 437472,
+  "duration": 315595,
   "status": "passed"
 });
 formatter.scenario({
@@ -643,7 +627,7 @@ formatter.match({
   "location": "StepDefATM.shoot(int,int)"
 });
 formatter.result({
-  "duration": 145396,
+  "duration": 190726,
   "status": "passed"
 });
 formatter.match({
@@ -660,7 +644,7 @@ formatter.match({
   "location": "StepDefATM.shoot(int,int)"
 });
 formatter.result({
-  "duration": 331846,
+  "duration": 259575,
   "status": "passed"
 });
 formatter.match({
@@ -677,7 +661,7 @@ formatter.match({
   "location": "StepDefATM.shoot(int,int)"
 });
 formatter.result({
-  "duration": 453294,
+  "duration": 347241,
   "status": "passed"
 });
 formatter.match({
@@ -694,7 +678,7 @@ formatter.match({
   "location": "StepDefATM.shoot(int,int)"
 });
 formatter.result({
-  "duration": 175759,
+  "duration": 237766,
   "status": "passed"
 });
 formatter.match({
@@ -711,7 +695,7 @@ formatter.match({
   "location": "StepDefATM.shoot(int,int)"
 });
 formatter.result({
-  "duration": 178325,
+  "duration": 173192,
   "status": "passed"
 });
 formatter.match({
@@ -728,7 +712,7 @@ formatter.match({
   "location": "StepDefATM.shoot(int,int)"
 });
 formatter.result({
-  "duration": 224081,
+  "duration": 193291,
   "status": "passed"
 });
 formatter.match({
@@ -745,7 +729,7 @@ formatter.match({
   "location": "StepDefATM.shoot(int,int)"
 });
 formatter.result({
-  "duration": 189443,
+  "duration": 192864,
   "status": "passed"
 });
 formatter.match({
@@ -762,7 +746,7 @@ formatter.match({
   "location": "StepDefATM.shoot(int,int)"
 });
 formatter.result({
-  "duration": 320299,
+  "duration": 254872,
   "status": "passed"
 });
 formatter.match({
@@ -775,7 +759,7 @@ formatter.match({
   "location": "StepDefATM.shoot_response(String)"
 });
 formatter.result({
-  "duration": 87237,
+  "duration": 93652,
   "status": "passed"
 });
 });

@@ -15,7 +15,7 @@ public class Battleships extends JFrame {
     };
 
     //Used for singleton
-    public static Battleships instance;
+    private static Battleships instance;
 
     //This is so only one instance of the game can run!
     public static synchronized Battleships getInstance(){

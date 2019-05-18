@@ -14,6 +14,11 @@ public class Battleships extends JFrame {
         ships.put("Destroyer", 2);
     };
 
+    //private constructor for singleton
+    private Battleships(){
+
+    }
+
     //Used for singleton
     private static Battleships instance;
 
